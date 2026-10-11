@@ -41,10 +41,4 @@ Especializado en desarrollo e implementación de ERP (Odoo), integración de sis
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas de GitHub de Alexander](https://github-readme-stats.vercel.app/api?username=alexander-falcon&show_icons=true&theme=radical)
-
----
-
 *“Perfil orientado a resultados, con capacidad de análisis, resolución de problemas y trato directo con cliente.”*
