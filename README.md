@@ -1,16 +1,50 @@
-## Hi there 👋
+# ¡Hola! Soy Alexander Falcón 👋
 
-<!--
-**alexander-falcon/alexander-falcon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador e Implementador de Odoo** | Ingeniero en Telecomunicaciones y Máster en Computación
 
-Here are some ideas to get you started:
+Especializado en desarrollo e implementación de ERP (Odoo), integración de sistemas y automatización de procesos. Perfil híbrido que combina una sólida base técnica con experiencia en docencia universitaria e investigación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Actualmente
+
+- Trabajando en desarrollo e implementación de **Odoo** para clientes del **Kit Digital** (facturación, POS, E-commerce, inventario, fabricación, reclutamiento).
+- Mantenimiento de repositorios con **GitLab**, pipelines **CI/CD** y gestión de tareas con **YouTrack**.
+- Gestión de servidores con **Docker** y monitorización con **Prometheus**.
+
+---
+
+## 🛠️ Tecnologías que uso
+
+**Lenguajes:** Python, JavaScript, SQL, Delphi  
+**ERP/Frameworks:** Odoo, Django, ExtJS  
+**Bases de datos:** PostgreSQL, SQL Server  
+**DevOps:** Linux/Bash, Docker, Git/GitHub/GitLab, CI/CD, YouTrack, Prometheus  
+**Integraciones:** ERP A3, Redsys, Zebra ZPL, Telegram, WhatsApp, cajas registradoras (Optima, CASIO), PDAs con lector de códigos de barras
+
+---
+
+## 📂 Proyectos destacados
+
+- **Agenda**: Sistema de gestión de citas para 3 salones de belleza (+6.000 clientes, media de 1.300 citas/mes, integración WhatsApp).
+- **SGA (Sistema de Gestión de Almacenes)**: Picking y operaciones internas, integración ERP A3, captura EAN-8/13, impresión Zebra ZPL y alertas de stock.
+- **Módulo de reclutamiento**: +1.000 encuestas aplicadas a aspirantes en 4 tipos de test técnicos.
+- **E-commerce**: Integración con Redsys (tarjeta/Bizum) e impresora de cocina.
+
+---
+
+## 📫 Cómo contactarme
+
+- **LinkedIn**: [linkedin.com/in/alexander-falcon](https://www.linkedin.com/in/alexander-falcon)
+- **Email**: alexander.falcon@gmail.com
+- **Ubicación**: Valencia, España
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub de Alexander](https://github-readme-stats.vercel.app/api?username=alexander-falcon&show_icons=true&theme=radical)
+
+---
+
+*“Perfil orientado a resultados, con capacidad de análisis, resolución de problemas y trato directo con cliente.”*
